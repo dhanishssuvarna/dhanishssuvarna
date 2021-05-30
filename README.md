@@ -1,6 +1,5 @@
 ### Hi there 👋, Dhanish S Suvarna here
 #### Design and development
-![Design and development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I do website design and development, I really enjoy learning new languages and frameworks like React, Node, Express.
 
