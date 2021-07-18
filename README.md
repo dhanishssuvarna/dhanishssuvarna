@@ -62,8 +62,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <p>
   <h1 align="center"><b>⚡ Github Stats ⚡</b></h1>
